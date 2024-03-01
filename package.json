@@ -1,0 +1,28 @@
+{
+  "name": "@figoridwan/tiktokdownload-test",
+  "version": "1.0.0",
+  "description": "Tiktok scrape using unofficial api library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/indoxcapital/tiktokdownload-test.git"
+  },
+  "keywords": [
+    "tiktok",
+    "downloader"
+  ],
+  "author": "indoxcapital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indoxcapital/tiktokdownload-test/issues"
+  },
+  "homepage": "https://github.com/indoxcapital/tiktokdownload-test#readme",
+  "dependencies": {
+    "tiktokapi-src": "^1.0.2",
+    "axios": "^1.4.0",
+    "chalk": "^5.3.0",
+    "delay": "^6.0.0"
+  }
+}
